@@ -88,3 +88,35 @@ successor persona actually needs and how much technical skill we can assume.
 **Affects:** Constraint C3, Goal G4, Successor persona
 
 **Client response:** _Pending — Week 5 class_
+
+---
+
+## Q6. What you already know when you look someone up
+
+**Question:** When you look up a past speaker, what do you usually already know about them —
+their name, their company, the topic they covered, or roughly what year it was?
+
+**Why we are asking:** My starting idea for the data is one row per talk, with the speaker, the
+main topic, the session title, and the year. This question checks whether those are the right
+columns without asking the client to design the database. Whatever she usually starts from is
+what search has to work with, and anything she never knows up front does not need to be a search
+field.
+
+**Affects:** FR-2, FR-3, FR-13, FR-14
+
+**Client response:** _Pending — Week 5 class_
+
+---
+
+## Q7. The tools already in use
+
+**Question:** Right now, when you need to update a schedule, what program do you open, and who
+else works on that file?
+
+**Why we are asking:** A spreadsheet the staff already use every day could be easier to hand off
+than a new tool. Before deciding anything like that, we need to know what the team is comfortable
+with today and how many people edit the same files.
+
+**Affects:** Constraint C3, Goal G4, Program Coordinator persona
+
+**Client response:** _Pending — Week 5 class_
