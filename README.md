@@ -7,7 +7,8 @@ Energy Horizon Institute, using event schedules from 2016 through 2026.
 | File | What it is |
 |---|---|
 | [`PRD.md`](PRD.md) | The draft PRD: problem statement, goals, constraints, personas, user stories, functional requirements, and out of scope |
-| [`PRD-client-questions.md`](PRD-client-questions.md) | Questions for the client, each tied to an assumption in the PRD. Responses get filled in after the Week 5 class |
+| [`PRD-client-questions.md`](PRD-client-questions.md) | Questions for the client, each tied to an assumption in the PRD. Responses were recorded after the Week 5 class |
+| [`open-questions.md`](open-questions.md) | Unresolved questions from the Week 5 client session, with why each matters and what we assume in the meantime |
 
 This draft was written before meeting the client. Items marked **(Assumption)** in the PRD are
 guesses to confirm or correct in Week 5.
