@@ -1,6 +1,6 @@
 # Client Questions — PRD Follow-up
 
-**For:** Week 5 client session
+**For:** Week 5 client session — responses recorded after class
 **Related:** [`PRD.md`](PRD.md) — each question below resolves one or more items marked
 **(Assumption)** there.
 
@@ -22,7 +22,9 @@ person asking was leadership, a sponsor, or a speaker, that changes the personas
 
 **Affects:** Goals G2, Personas, FR-13 through FR-16
 
-**Client response:** _Pending — Week 5 class_
+**Client response:** Partial answer (paraphrased from my class notes, not her exact words). She has a couple of years of schedules from the previous person in her role, and it is too much data to work through. What she wants is to use it to find speakers and build the speaker list.
+
+**What this tells us:** The slow question is not a one-off lookup. It is the recurring job of building each year's speaker list.
 
 ---
 
@@ -39,7 +41,7 @@ and which are just travel and meals.
 
 **Affects:** FR-4, FR-15
 
-**Client response:** _Pending — Week 5 class_
+**Client response:** Not covered in the Week 5 session — this question was not asked, or the answer was not captured in my notes. Carried forward in [`open-questions.md`](open-questions.md).
 
 ---
 
@@ -55,7 +57,7 @@ take place, and we need to know whether the client wants a way to mark that.
 
 **Affects:** Problem Statement, FR-8, FR-11
 
-**Client response:** _Pending — Week 5 class_
+**Client response:** Not covered in the Week 5 session — this question was not asked, or the answer was not captured in my notes. Carried forward in [`open-questions.md`](open-questions.md).
 
 ---
 
@@ -71,7 +73,7 @@ client has already been counting than invent a rule.
 
 **Affects:** FR-5, FR-15
 
-**Client response:** _Pending — Week 5 class_
+**Client response:** Not covered in the Week 5 session — this question was not asked, or the answer was not captured in my notes. Carried forward in [`open-questions.md`](open-questions.md).
 
 ---
 
@@ -87,7 +89,9 @@ successor persona actually needs and how much technical skill we can assume.
 
 **Affects:** Constraint C3, Goal G4, Successor persona
 
-**Client response:** _Pending — Week 5 class_
+**Client response:** Answered (paraphrased from my class notes, not her exact words). She inherited a couple of years of schedules from her predecessor. When she needs a new guest speaker, it is usually someone her predecessor referred.
+
+**What this tells us:** The handoff passed on files and a referral network, but not a usable speaker list. Much of the knowledge about who to invite still depends on the previous person.
 
 ---
 
@@ -104,7 +108,7 @@ field.
 
 **Affects:** FR-2, FR-3, FR-13, FR-14
 
-**Client response:** _Pending — Week 5 class_
+**Client response:** Not covered in the Week 5 session — this question was not asked, or the answer was not captured in my notes. Carried forward in [`open-questions.md`](open-questions.md).
 
 ---
 
@@ -119,4 +123,30 @@ with today and how many people edit the same files.
 
 **Affects:** Constraint C3, Goal G4, Program Coordinator persona
 
-**Client response:** _Pending — Week 5 class_
+**Client response:** Answered (paraphrased from my class notes, not her exact words). She prefers Excel or basic Office tools. Nothing complicated.
+
+**What this tells us:** The product should fit into the tools the staff already use, so it can be handed off without training.
+
+
+---
+
+## Q8. How the speaker lineup gets built
+
+*Added after class. This answer came up in the session and addresses the question I most wanted
+to ask: how speakers and topics are chosen.*
+
+**Question:** Think about the last event you planned. How did you pick the speakers and topics?
+
+**Client response:** Answered (paraphrased from my class notes, not her exact words). Speakers are
+decided by starting from last year's agenda and modifying it based on feedback. When a new guest
+speaker is needed, it is usually someone referred by her predecessor.
+
+She also said speaker quality is one of the most important factors, and that the Dean of CBE and the advisory board take part in decisions about speakers.
+
+**What this tells us:** This is the core workflow the product supports. The starting point is
+always the previous agenda, the filter is feedback, and new names come from referrals. That points
+to three things the data needs: a link to the prior year's session, a feedback or status field, and
+a record of who referred a speaker. Because the Dean and the advisory board are involved, the
+information also has to be clear enough to share beyond the client.
+
+**Affects:** Problem Statement, US-1, US-4, FR-2, FR-19 through FR-22
